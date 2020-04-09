@@ -11,7 +11,7 @@ KIPPER - Stay Relevant
 What is that one thing, irritating everybody?
 Your downloads contain subtitles in every f..king language of the world and makes you scroll multifold of what you were actually supposed to do. What about those game files that are in an alien language, that you know nothing about? These unnecessary files, not only take up space, but also your time. 
 
-To solve this issue, Kipper, a UI based software, detects the languages that the files are in, and provides them to you in a easy to use UI. Just choose the languages you need and delete the remaining in a button click.
+To solve this issue, Kipper, a GUI based software, detects the languages that the files are in, and provides them to you in a easy to use UI. Just choose the languages you need and delete the remaining in a button click.
 
 --------------------------------------
 Getting Started
