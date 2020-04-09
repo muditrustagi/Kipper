@@ -17,7 +17,9 @@ To solve this issue, Kipper, a GUI based software, detects the languages that th
 Getting Started
 --------------------------------------
 Install Python-3
+
 Run Setup.py to install the dependencies
+
 Execute core.py
 
 --------------------------------------
