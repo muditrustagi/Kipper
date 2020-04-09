@@ -1,7 +1,7 @@
  ----------- README ----------- 
 
 # Author: Mudit Rustagi
-# 09 April 2020 (Thursday)
+09 April 2020 (Thursday)
 
 
 --------------------------------------
@@ -23,27 +23,27 @@ Execute core.py
 --------------------------------------
 Prerequisites
 --------------------------------------
-Python Programming
-Tkinter GUI
+Python 3.7
+Tkinter GUI Library
 Lang Detect Library
 
 --------------------------------------
-PRO 
+Pros
 --------------------------------------
 * Easy to use UI
 * Complete Tool to detect and delete files
 * Free and Open Source
 * Great customization
-* Honestly, I dont know even know of any similiar complete package
+* Honestly, I dont know even know of anything similiar available  
 
 --------------------------------------
-CON (TO BE SOLVED IN VERSION_2)
+Cons (To be resovolved in version 2)
 --------------------------------------
-* Quite Slow when run on a system scale 
 * No Dark Mode
-* Automatic run on system startup missing
+* Missing automatic run on system startup
+* Quite Slow when run on a complete system scale 
 
 --------------------------------------
 Contributing
 --------------------------------------
-Please contribute freely.
+Please contribute freely. Enjoy.
