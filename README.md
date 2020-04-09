@@ -41,7 +41,7 @@ Pros
 * Honestly, I dont know even know of anything similiar available  
 
 --------------------------------------
-Cons (To be resovolved in version 2)
+Cons (To be done in version 2)
 --------------------------------------
 * No Dark Mode
 * Missing automatic run on system startup
