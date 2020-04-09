@@ -22,13 +22,13 @@ EXTENSIONS=['srt','vtt']
 
 #Important Links
 
-WEBSITE="my website link goes here"
+WEBSITE="https://muditrustagii.com"
 
 GITHUB="https://github.com/muditrustagi"
 
-ABOUT="the link to the readme file in github"
+ABOUT="https://github.com/muditrustagi/Kipper/blob/master/README.md"
 
-CONTRIBUTE="the link to the codebase in github"
+CONTRIBUTE="https://github.com/muditrustagi/Kipper"
 
 """
 LANGUAGES:
