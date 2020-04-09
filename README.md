@@ -26,7 +26,9 @@ Execute core.py
 Prerequisites
 --------------------------------------
 Python 3.7
+
 Tkinter GUI Library
+
 Lang Detect Library
 
 --------------------------------------
