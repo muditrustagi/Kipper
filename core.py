@@ -76,7 +76,7 @@ def submit():
     global filename,lang,outcome,texti
     files=[]
     filename=texti.get()
-    print(filename)
+    filename=filename.strip()
     # Get all the list of subdirectory in the folder
     subdirs = [x[0] for x in os.walk(filename)]
     for i in subdirs:
