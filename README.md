@@ -45,7 +45,7 @@ Cons (To be done in version 2)
 --------------------------------------
 * No Dark Mode
 * Missing automatic run on system startup
-* Quite Slow when run on a complete system scale 
+* Handling more edge cases and situations 
 
 --------------------------------------
 Contributing
