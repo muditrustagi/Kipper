@@ -18,11 +18,11 @@ The common extensions include:
     VTT     Web Video Text Track
     TXT     untimed text transcript
 """
-EXTENSIONS=['srt','vtt']
+EXTENSIONS=['srt','vtt','txt']
 
 #Important Links
 
-WEBSITE="https://muditrustagii.com"
+WEBSITE="https://muditrustagi.com"
 
 GITHUB="https://github.com/muditrustagi"
 
