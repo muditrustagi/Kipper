@@ -213,10 +213,10 @@ startTime=datetime.now()
 
 #The main window intialization  top
 top = Tk()
-top.geometry("490x216+600+300")
+top.geometry("550x216+600+300")
 top.iconbitmap(r"logo.ico")
 top.title("  KIPPER  :  Stay Relevant")
-top.resizable(width="false", height="false")
+top.resizable(width="true", height="true")
 top.after(1000,update_clock)
 top.protocol("WM_DELETE_WINDOW", on_closing)
 
@@ -246,14 +246,14 @@ folder.insert(END, '')
 folder.place(x=20, y=70)
 
 #Adding Edit Button  editButton
-editImage= PhotoImage(file = r"edit.png").subsample(7)
+editImage= PhotoImage(file = r"./icons/edit.gif").subsample(7)
 editButton = Button(top, image = editImage,command=edit,borderwidth=0)
 editButton.place(x=428,y=70)
 editButton.bind("<Enter>", enter)
 editButton.bind("<Leave>", leave)
 
 #Adding Reset Button  resetButton
-resetImage = PhotoImage(file = r"reset.png").subsample(2)
+resetImage = PhotoImage(file = r"./icons/reset.gif").subsample(2)
 resetButton = Button(top, image = resetImage,command=reset,borderwidth=0)
 resetButton.place(x=450,y=70)
 resetButton.bind("<Enter>", enter)
@@ -275,7 +275,7 @@ seperator=Frame(top,height=1,width=1000,bg="#ababab")
 seperator.place(x=0,y=174)
 
 #Adding timer statusbar
-timer = PhotoImage(file = r"timer.png").subsample(2,2)
+timer = PhotoImage(file = r"./icons/timer.gif").subsample(2,2)
 statusbar = Label(top, text="  00:00",bg="#fff", image = timer,compound = LEFT, anchor=W)
 statusbar.place(x=5,y=175)
 
