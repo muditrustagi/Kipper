@@ -16,11 +16,11 @@ To solve this issue, Kipper, a GUI based software, detects the languages that th
 --------------------------------------
 Getting Started
 --------------------------------------
-Install Python-3
-
-Run Setup.py to install the dependencies
+Install Python-3, langdetect, and tkinter.
 
 Execute core.py
+
+To get started, use the testFiles provided to run the UI. 
 
 --------------------------------------
 Prerequisites
