@@ -48,6 +48,14 @@ Cons (To be done in version 2)
 * Handling more edge cases and situations 
 
 --------------------------------------
+ScreenShots
+--------------------------------------
+![Screenshot 2022-10-17 at 4 57 59 AM](https://user-images.githubusercontent.com/36874950/196064008-4076784b-5273-4277-a07a-3888a7d12dda.jpg)
+![Screenshot 2022-10-17 at 4 58 15 AM](https://user-images.githubusercontent.com/36874950/196064013-47326d46-bef1-4f2b-9d09-d5547bba2c78.jpg)
+![Screenshot 2022-10-17 at 4 58 25 AM](https://user-images.githubusercontent.com/36874950/196064015-a62b7b11-58e8-4db8-8ec0-d5321799670d.jpg)
+
+
+--------------------------------------
 Contributing
 --------------------------------------
 Please contribute freely. Enjoy.
